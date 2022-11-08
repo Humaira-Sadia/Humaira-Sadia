@@ -1,4 +1,3 @@
-[![MasterHead]([https://1.bp.blogspot.com/-7A4WynwLsM...](https://image.shutterstock.com/image-vector/computer-programming-word-concepts-banner-260nw-1237397659.jpg))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Humaira Sadia</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
