@@ -1,8 +1,12 @@
 ![MasterHead](https://user-images.githubusercontent.com/45071341/130478494-21f091d1-f61e-4f35-b16f-e2b0763f7e04.gif)
 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hii,+There!+👋;I'm+Humaira+Sadia....;Nice+to+e-meet+you!!!&center=true&size=30">
+  </a>
+</h1>
 
-<h1 align="center">Hi 👋, I'm Humaira Sadia</h1>
-<h3 align="center">A passionate Full Stack Developer from India....</h3>
+<h3 align="center" style="color: green">A passionate Full Stack Developer from India....</h3>
 
 <img align="right" alt="coding girl" width="400" src="https://user-images.githubusercontent.com/45157446/161337980-87a1b2e4-99ea-4fc8-ab1e-faa61357b40d.gif">
 
